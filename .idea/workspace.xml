@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa87796-bb7b-4f3e-a8da-9e0817de1371" name="Changes" comment="done." />
+    <list default="true" id="4fa87796-bb7b-4f3e-a8da-9e0817de1371" name="Changes" comment="done.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/eureka-dashboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/eureka-dashboard.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dinu/Documents/smart_parking_system",
+    "last_opened_file_path": "C:/Users/Dinu/Documents/smart_parking_system/doc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +62,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dinu\Documents\smart_parking_system\doc" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -128,11 +136,24 @@
       <option name="presentableId" value="Default" />
       <updated>1750838562858</updated>
       <workItem from="1750838563974" duration="1587000" />
-      <workItem from="1750863310698" duration="18000" />
+      <workItem from="1750863310698" duration="960000" />
     </task>
+    <task id="LOCAL-00001" summary="done.">
+      <option name="closed" value="true" />
+      <created>1750863357151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750863357151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done." />
+    <option name="LAST_COMMIT_MESSAGE" value="done." />
   </component>
 </project>
